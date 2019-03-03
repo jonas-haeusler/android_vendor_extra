@@ -1,5 +1,6 @@
 # MicroG and FDroid packages
 PRODUCT_PACKAGES += \
+    BromiteSystemWebView \
     com.google.android.maps.jar \
     FakeStore \
     FDroid \
@@ -8,5 +9,5 @@ PRODUCT_PACKAGES += \
     GsfProxy \
     MozillaNlpBackend \
     NominatimNlpBackend \
-    OpenWeatherMapWeatherProvide           
+    OpenWeatherMapWeatherProvider
 
